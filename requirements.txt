@@ -1,6 +1,5 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+pandas
+time
+datetime
+sklearn
+xgboost
